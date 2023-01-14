@@ -4,8 +4,8 @@ a=4128
 b=4289
 c=4318
 d=4499
->>>>>>> 391c9e6 (Second commit from bug-main branch)
+e=667
 
-sum = a+b+c+d
+sum = a+b+c+d+e
 
 print ("output of two numbers =" , sum)
