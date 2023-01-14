@@ -1,10 +1,10 @@
 # this is a comment in python
 
-a=3128
-b=3289
-c=3318
-d=3499
->>>>>>> b99424b (First commit from bug-main branch)
+a=4128
+b=4289
+c=4318
+d=4499
+>>>>>>> 391c9e6 (Second commit from bug-main branch)
 
 sum = a+b+c+d
 
