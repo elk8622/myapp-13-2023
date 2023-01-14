@@ -1,8 +1,10 @@
 # this is a comment in python
 
-a=5
-b=6
+a=1128
+b=1289
+c=1318
+d=1499
 
-sum = a+b
+sum = a+b+c+d
 
 print ("output of two numbers =" , sum)
